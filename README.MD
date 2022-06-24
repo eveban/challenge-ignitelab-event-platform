@@ -32,10 +32,10 @@ Projeto desenvolvido em ReactJS(vite) com GraphQL plara plataforma de eventos.
 <br />
 
 ## Funcionalidades
-- [x] Listagem de clientes inadimplentes:
-  - [x] Listagem de clientes inadimplentes
-  - [x] Ordenação por colunas
-  - [x] Busca por nome
+- [x] Inscrição para o Evento
+  - [x] Listagem de mão na massa
+  <!-- - [x] Ordenação por colunas
+  - [x] Busca por nome -->
 
 <br />
 
