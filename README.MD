@@ -96,7 +96,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ---
 Projeto publicado na [Netlify](https://www.netlify.com/) para fins de testes.
 
-- **[Frontend](https://challengefullstack.netlify.app)**
+- **[Frontend](https://dapper-figolla-696321.netlify.app)**
 
 
 ## Desenvolvido
